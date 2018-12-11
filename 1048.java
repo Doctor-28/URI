@@ -1,14 +1,14 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class SalarioAumento {
+public class Main {
 
 	public static void main(String[] args) throws IOException {
 
 		float A, N = 0, R = 0;
 		int P = 0;
-		Scanner t = new Scanner(System.in);
-		A = t.nextFloat();
+		Scanner input = new Scanner(System.in);
+		A = input.nextFloat();
 
 		if (A >= 0 && A <= 400.00) {
 			P = 15;

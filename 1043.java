@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Triangulo {
+public class Main {
 	public static void main(String[] args) throws IOException {
 		Scanner t = new Scanner(System.in);
 		float a = t.nextFloat();

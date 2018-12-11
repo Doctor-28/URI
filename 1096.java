@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class IJ2 {
+public class Main {
 
 	public static void main(String[] args) throws IOException {
 		for (int i = 1; i <= 9; i += 2) {

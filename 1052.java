@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Mes {
+public class Main {
 	public static void main(String[] args) throws IOException {
 		Scanner t = new Scanner(System.in);
 		int A = t.nextInt();
